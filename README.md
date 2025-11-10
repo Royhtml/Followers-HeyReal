@@ -15,6 +15,8 @@
 
 <img src = "https://github.com/Royhtml/Followers-HeyReal/blob/main/Screenshot%202025-11-10%20212242.png?raw=true" width="100%">
 
+<a href = "https://pypi.org/project/Heyreal-Followers/">Klik Disinih Lengkapnya...</a>
+
 ## Running Pip Install Gui Version 2.3
 ```bash
 pip install Heyreal-Followers
