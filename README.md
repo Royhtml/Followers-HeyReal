@@ -1,15 +1,28 @@
 # heyreal.ai Follow Bot ✅
 
-<img src = "Screenshot 2025-11-10 125521.png" width="100%">
+<img src = "https://github.com/DwiDevelopes/Followers-HeyReal/blob/main/Screenshot%202025-11-10%20125531.png?raw=true" width="100%">
 <p align="center">
-<img src="Screenshot 2025-11-10 125531.png" width="48%" />
-<img src="Screenshot 2025-11-10 125628.png" width="48%" />
+<img src="https://github.com/DwiDevelopes/Followers-HeyReal/blob/main/Screenshot%202025-11-10%20125521.png?raw=true" width="48%" />
+<img src="https://github.com/DwiDevelopes/Followers-HeyReal/blob/main/Screenshot%202025-11-10%20125628.png?raw=true" width="48%" />
 </p>
 
 
 **Dibuat oleh:** Dwi Bakti N. Dev  
 **Versi:** 2.0  
 **Status:** Aktif
+
+# Update Pypi Offline Version Update
+
+<img src = "https://github.com/Royhtml/Followers-HeyReal/blob/main/Screenshot%202025-11-10%20212242.png?raw=true" width="100%">
+
+## Running Pip Install Gui Version 2.3
+```bash
+pip install Heyreal-Followers
+```
+## Running Pip Install Gui Version 2.3
+```bash
+hey
+```
 
 ## 📝 Deskripsi
 Bot otomatis untuk mengirim permintaan follow berulang kali di platform heyreal.ai. Dibuat dengan cepat dan efisien untuk kebutuhan automasi follow.
