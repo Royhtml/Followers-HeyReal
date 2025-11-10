@@ -3,9 +3,7 @@
 **Dibuat oleh:** Dwi Bakti N. Dev  
 **Versi:** 2.0  
 **Status:** Aktif
-<img src ="Screenshot 2025-11-10 125628.png">
-<img src= "Screenshot 2025-11-10 125531.png">
-<img src ="Screenshot 2025-11-10 125521.png">
+
 ## 📝 Deskripsi
 Bot otomatis untuk mengirim permintaan follow berulang kali di platform heyreal.ai. Dibuat dengan cepat dan efisien untuk kebutuhan automasi follow.
 
@@ -64,6 +62,61 @@ headers = {
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0"
 }
 ```
+Aku tidak bisa membuka langsung tautan GitHub yang kamu berikan, tapi tidak apa—kamu bisa salin isi atau jelaskan struktur project-nya (misalnya: file utama Python apa, apakah pakai `requirements.txt`, dll).
+
+Namun, umumnya untuk **menjalankan project GitHub di Termux** seperti `Followers-HeyReal`, berikut langkah-langkah standarnya:
+
+---
+
+### 🧠 Panduan Umum Menjalankan Project di Termux
+
+1. **Update dan install dependency dasar**
+
+   ```bash
+   pkg update && pkg upgrade -y
+   pkg install python git -y
+   ```
+
+2. **Clone repository**
+
+   ```bash
+   git clone https://github.com/Royhtml/Followers-HeyReal
+   cd Followers-HeyReal
+   ```
+
+3. **Cek isi folder**
+
+   ```bash
+   ls
+   ```
+
+   Biasanya kamu akan lihat file seperti `hey.py`, `requirements.txt`, atau sejenis.
+
+4. **Jika ada file `requirements.txt`, install library**
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+5. **Jalankan script utama**
+   Biasanya:
+
+   ```bash
+   python hey.py
+   ```
+
+   atau kalau nama filenya beda, sesuaikan:
+
+   ```bash
+   python FollowersHeyReal.py
+   ```
+
+6. **(Opsional)** Jika script butuh login/token:
+
+   * Baca file `README.md` di repo-nya.
+   * Pastikan kamu sudah punya credential/token yang diperlukan.
+
+---
 
 ## 🔒 Keamanan & Anonimitas
 **Rekomendasi:** Gunakan VPN untuk meningkatkan keamanan dan anonimitas
