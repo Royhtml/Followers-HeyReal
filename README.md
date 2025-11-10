@@ -3,7 +3,8 @@
 **Dibuat oleh:** Dwi Bakti N. Dev  
 **Versi:** 2.0  
 **Status:** Aktif
-
+<img src ="Screenshot 2025-11-10 125628.png">
+<im
 ## 📝 Deskripsi
 Bot otomatis untuk mengirim permintaan follow berulang kali di platform heyreal.ai. Dibuat dengan cepat dan efisien untuk kebutuhan automasi follow.
 
