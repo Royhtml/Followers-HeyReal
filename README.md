@@ -1,5 +1,12 @@
 # heyreal.ai Follow Bot ✅
 
+<img src = "Screenshot 2025-11-10 125521.png" width="100%">
+<p align="center">
+<img src="Screenshot 2025-11-10 125531.png" width="48%" />
+<img src="Screenshot 2025-11-10 125628.png" width="48%" />
+</p>
+
+
 **Dibuat oleh:** Dwi Bakti N. Dev  
 **Versi:** 2.0  
 **Status:** Aktif
@@ -12,6 +19,7 @@ Bot otomatis untuk mengirim permintaan follow berulang kali di platform heyreal.
 - **High Speed** 🔥 - Proses eksekusi yang cepat
 - **Token Reusable** - Dapat menggunakan token yang sama berulang kali
 - **Simple Setup** - Konfigurasi mudah dan straightforward
+
 
 ## ⚙️ Cianon Follow Bot
 ```python
