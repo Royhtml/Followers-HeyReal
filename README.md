@@ -8,8 +8,9 @@
 
 
 **Dibuat oleh:** Dwi Bakti N. Dev  
-**Versi:** 2.0  
+**Versi:** 2.7.0  
 **Status:** Aktif
+
 
 # Update Pypi Offline Version Update
 
@@ -24,6 +25,11 @@ pip install Heyreal-Followers
 ## Running Pip Install Gui Version 2.3
 ```bash
 hey
+```
+
+## UPload Token File And Download Github 
+```bash
+Api.txt
 ```
 
 ## 📝 Deskripsi
